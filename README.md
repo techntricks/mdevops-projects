@@ -20,3 +20,7 @@ In this `DevOps Projects` series, We are going to cover the following topics:
 - Continuously Deliver `Docker` changes to `Kubernetes Pods` (CI/CD for Containers).
 - Implement `Security` and its best practices on AWS Cloud.
 - Automate AWS Cloud Infra (`Terraform` to setup Cloud Stack).
+
+### Prerequisites
+---
+Skills need for this required as
