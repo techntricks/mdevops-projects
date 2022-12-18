@@ -21,6 +21,15 @@ In this `DevOps Projects` series, We are going to cover the following topics:
 - Implement `Security` and its best practices on AWS Cloud.
 - Automate AWS Cloud Infra (`Terraform` to setup Cloud Stack).
 
-### Prerequisites
-##
+## Prerequisites
 Skills need for this required as
+- Intermediate understanding of `Linux` systems.
+- Basic `scripting` knowledge.
+- `Troubleshooting` skills.
+- Basic of AWS (EC2, ELB, S3, etc).
+- Network and Security concepts.
+- `Virtualization` concepts.
+- Intermediate understanding of `Jenkins`.
+- Some hands on `Ansible`.
+- Basic understanding of `Continuous Integration & Delivery`.
+- Containers, Docker.
