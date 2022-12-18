@@ -22,5 +22,5 @@ In this `DevOps Projects` series, We are going to cover the following topics:
 - Automate AWS Cloud Infra (`Terraform` to setup Cloud Stack).
 
 ### Prerequisites
----
+--
 Skills need for this required as
